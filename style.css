@@ -1,7 +1,10 @@
 body{
     background-color:brown darkorange;
 }
-
+ p{
+     color-adjust: blue; 
+ }
+ 
 h1{font-size: 40px;
 
 
